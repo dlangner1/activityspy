@@ -1,0 +1,11 @@
+2019-04-17 12:38:41.017 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onCreate event fired
+2019-04-17 12:38:42.111 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onStart event fired
+2019-04-17 12:38:42.133 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onResume event fired
+2019-04-17 12:39:40.805 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onPause event fired
+2019-04-17 12:39:40.989 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onStop event fired
+2019-04-17 12:39:54.320 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onRestart event fired
+2019-04-17 12:39:54.340 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onStart event fired
+2019-04-17 12:39:54.365 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onResume event fired
+2019-04-17 12:40:06.064 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onPause event fired
+2019-04-17 12:40:06.132 7369-7369/edu.washington.dlangner.activityspy I/ActivitySpy: onStop event fired
+2019-04-17 12:40:10.158 7369-7369/edu.washington.dlangner.activityspy E/ActivitySpy: We're going down Captain!
